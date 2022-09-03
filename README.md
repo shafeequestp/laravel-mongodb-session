@@ -22,7 +22,7 @@ Laravel   | Package
 
 Install using composer:
 
-    composer require jenssegers/mongodb-session
+    composer require shafeequestp/mongodb-session
 
 Add the session service provider in `app/config/app.php`: (Below Laravel 7 Version)
 
