@@ -17,7 +17,7 @@ Laravel   | Package
  6.x.x    | 1.3.x
  7.x.x    | 1.4.x
  8.x.x    | 1.4.x
-
+ 9.x.x    | 1.5.x
 
 
 Install using composer:
